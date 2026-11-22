@@ -1,0 +1,16 @@
+# Build output
+target/
+
+# macOS
+.DS_Store
+
+# Real family lists (phone numbers + API keys) - keep them out of git.
+# Store the real list in the MEMBERS_CSV GitHub secret instead.
+members.real.csv
+*.real.csv
+*.local.csv
+
+# IDE
+.idea/
+.vscode/
+*.iml

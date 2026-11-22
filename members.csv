@@ -1,0 +1,8 @@
+name,birthday,phone,apikey
+# birthday: DD-MM-YYYY or DD-MM (year optional, used to show age)
+# phone: WhatsApp number with country code
+# apikey: the person's CallMeBot key. Leave blank if they haven't activated it -
+# they won't receive messages, but their birthday is still announced to others.
+Sajid,10-06,+919000000002,000002
+Sajid Jio,03-01-1960,+919000000003,
+Rahul,29-02-2000,+919000000004,000004
